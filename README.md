@@ -12,4 +12,4 @@ The designer to be followed during the exercises in the course, can be found in 
 
 ### Project Result
 You can check the result of the project by accessing the link.
-<a href="https://aluraplus-phi-lime.vercel.app/">Project completed</a>
+<a href="https://alurabooks-beryl.vercel.app/">Project completed</a>
